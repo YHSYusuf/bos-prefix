@@ -1,6 +1,6 @@
 # Code Blog
  
-Discord.js v14 Boş Alt Yapı'dır. (Sadee Prefix) İstediğiniz gibi kullanabilirsiniz.
+Discord.js v14 Boş Alt Yapı'dır. (Sadece Prefix) İstediğiniz gibi kullanabilirsiniz.
 
 **Tek Şart;**
 "Ben Yaptım!" demeyin.
